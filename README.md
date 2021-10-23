@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">A passionate SysAdmin/DevOps from Mexico.</h3>
 
 
-- 🌱 I’m currently learning **DevOps Technologies** <img align="right" style="width:16rem; height:auto" src="https://pbs.twimg.com/media/DPD4FHDW4AAmdLM.jpg"/>
+- 🌱 I’m currently learning **DevOps Technologies** <img align="right" style="width:16rem; height:auto" src="https://mir-s3-cdn-cf.behance.net/projects/404/ba33f1110117309.Y3JvcCw4MDAsNjI1LDMsMw.jpg"/>
 
 - 👯 I’m looking to collaborate on **AWS Projects**
 
