@@ -21,7 +21,8 @@
 
 
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+
+  <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <h3 align="center">Database</h3>
 <p align="center">
@@ -99,8 +100,9 @@
     </a>
   </div>
 </div>
-----
 
+  
+  
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
  
