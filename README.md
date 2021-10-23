@@ -19,7 +19,6 @@
 - ⚡ Fun fact **Linux runs on everything**
 
 
----
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
@@ -86,7 +85,7 @@
   </a>
 </p>
 
-----
+
 
 <h3 align="center">Connect with me</h3>
 
